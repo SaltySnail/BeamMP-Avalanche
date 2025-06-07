@@ -1,0 +1,2 @@
+{"name":"avalancheResetTrigger","class":"BeamNGTrigger","persistentId":"cf3dd39c-7f3f-4134-9f97-eda199e09e2c","__parent":"SimGroup_2","position":[-694.852356,122.078934,136.182648],"luaFunction":"onAvalancheResetTrigger","rotationMatrix":[0.679375291,-0.733790934,0,0.733790934,0.679375291,0,0,0,1],"scale":[20.5930557,5.71346712,13.3616447],"triggerMode":"Overlaps","triggerTestType":"Bounding box"}
+{"name":"SimGroup_2","class":"SimGroup","persistentId":"950eba8d-48be-4b92-a16e-39af9e3c1104","groupPosition":"-694.85235595703 122.07893371582 136.18264770508"}
